@@ -1,0 +1,62 @@
+{
+  "2024": {
+    "monthlyData": [
+      { "month": "Jan", "target": 10000, "achieved": 4500 },
+      { "month": "Fev", "target": 10000, "achieved": 9200 },
+      { "month": "Mar", "target": 10000, "achieved": 10100 },
+      { "month": "Abr", "target": 10000, "achieved": 11200 },
+      { "month": "Mai", "target": 10000, "achieved": 9800 },
+      { "month": "Jun", "target": 10500, "achieved": 10700 },
+      { "month": "Jul", "target": 11000, "achieved": 10500 },
+      { "month": "Ago", "target": 10800, "achieved": 10200 },
+      { "month": "Set", "target": 11500, "achieved": 11800 },
+      { "month": "Out", "target": 12000, "achieved": 11500 },
+      { "month": "Nov", "target": 12500, "achieved": 12700 },
+      { "month": "Dez", "target": 13000, "achieved": 12500 }
+    ],
+    "yearlyData": {
+      "target": 120000,
+      "achieved": 127400
+    }
+  },
+  "2025": {
+    "monthlyData": [
+      { "month": "Jan", "target": 10000, "achieved": 9500 },
+      { "month": "Fev", "target": 11000, "achieved": 10500 },
+      { "month": "Mar", "target": 12000, "achieved": 12200 },
+      { "month": "Abr", "target": 10500, "achieved": 9800 },
+      { "month": "Mai", "target": 11500, "achieved": 11000 },
+      { "month": "Jun", "target": 12500, "achieved": 12800 },
+      { "month": "Jul", "target": 13000, "achieved": 2300 },
+      { "month": "Ago", "target": 12000, "achieved": 0 },
+      { "month": "Set", "target": 13500, "achieved": 0 },
+      { "month": "Out", "target": 14000, "achieved": 0 },
+      { "month": "Nov", "target": 15000, "achieved": 0 },
+      { "month": "Dez", "target": 16000, "achieved": 0 }
+    ],
+    "yearlyData": {
+      "target": 151000,
+      "achieved": 65800
+    }
+  },
+  "2026": {
+    "monthlyData": [
+      { "month": "Jan", "target": 10500, "achieved": 0 },
+      { "month": "Fev", "target": 11500, "achieved": 0 },
+      { "month": "Mar", "target": 12500, "achieved": 0 },
+      { "month": "Abr", "target": 11000, "achieved": 0 },
+      { "month": "Mai", "target": 12000, "achieved": 0 },
+      { "month": "Jun", "target": 13000, "achieved": 0 },
+      { "month": "Jul", "target": 13500, "achieved": 0 },
+      { "month": "Ago", "target": 12500, "achieved": 0 },
+      { "month": "Set", "target": 14000, "achieved": 0 },
+      { "month": "Out", "target": 14500, "achieved": 0 },
+      { "month": "Nov", "target": 15500, "achieved": 0 },
+      { "month": "Dez", "target": 16500, "achieved": 0 }
+    ],
+    "yearlyData": {
+      "target": 157000,
+      "achieved": 0
+    }
+  }
+}
